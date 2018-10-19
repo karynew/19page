@@ -1,0 +1,95 @@
+/*Slide4*/
+.cuatro {
+  &  .cama{
+    position: absolute;
+    bottom:4%;
+    left: 0%;
+    z-index:9;
+    display:none;
+    @include mobile{
+      display: none;
+    }
+    @include tablet-init{
+      display:none;
+      //width:550px;
+    }
+    @include mini-labtop {
+      display:block;
+      width:550px;
+    }
+    @include labtop{
+      display:block;
+      width:600px;
+    }
+    @include portatil{
+      display:block;
+      width:500px;
+    }
+    @include convencional{
+      display:block;
+      width:550px;
+    }
+    @include indefinida{
+      display:block;
+      width:650px;
+    }
+      @include high{
+      display:block;
+      width:750px;
+
+    }
+    @include superHigh {
+      display:block;
+      width:750px;
+    }
+    img{
+      width:100%;
+
+    }
+  }
+  &  .tapete{
+    position: absolute;
+    bottom:5%;
+    right: 10%;
+    display:none;
+    @include mobile{
+      display:none;
+    }
+    @include tablet-init{
+      display:none;
+    }
+    @include mini-labtop {
+      display:block;
+        width: 500px;
+    }
+    @include labtop{
+    display:block;
+        width: 500px;
+    }
+    @include portatil{
+      display:block;
+        width: 600px;
+    }
+    @include convencional{
+      display:block;
+      width: 600px;
+    }
+    @include indefinida{
+      display:block;
+      width: 700px;
+    }
+    @include high{
+      display:block;
+      width: 800px;
+    }
+    @include superHigh {
+      display:block;
+      width: 840px;
+    }
+    img{
+      width:100%;
+
+    }
+  }
+
+}

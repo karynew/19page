@@ -1,0 +1,148 @@
+/* .modal-transparent */
+.modal {
+    &  .modal-dialog{
+      width: 100%;
+      max-width:320px;
+      @include mobile {
+        width: 100%;
+        max-width:320px;
+      }
+      @include tablet-init {
+        width: 100%;
+        max-width:500px;
+      }
+      @include mini-labtop {
+        width: 100%;
+        max-width:800px;
+      }
+      @include labtop{
+        width: 100%;
+        max-width:800px;
+      }
+      @include portatil{
+        width: 100%;
+        max-width:800px;
+      }
+      @include convencional{
+        width: 100%;
+        max-width:800px;
+      }
+      @include indefinida{
+        width: 100%;
+        max-width:800px;
+      }
+      @include high{
+        width: 100%;
+        max-width:800px;
+      }
+      @include superHigh {
+        width: 100%;
+        max-width:800px;
+      }
+      &  .modal-header{
+          padding: 0px;
+         border-bottom: 0px;
+
+              &  .close{
+                  -webkit-appearance: none;
+                  padding: 0;
+                  cursor: pointer;
+                  background: #c22a22!important;
+                  border: 0;
+                  width: 40px;
+                  height: 40px;
+                  border-radius: 50%;
+                  opacity:1;
+                  color:#ffffff;
+              }
+
+      }
+      &  .modal-body{
+        &  .carousel {
+            &  .carousel-inner{
+              &  .fa {
+                  display: inline-block;
+                  font: normal normal normal 14px/1 FontAwesome;
+                  font-size: inherit;
+                  text-rendering: auto;
+                  -webkit-font-smoothing: antialiased;
+                  -moz-osx-font-smoothing: grayscale;
+                  margin-top: 150px;
+              }
+                &  .item {
+                  padding:0px;
+                  background:$darkredColor;
+                  &  .item-promo{
+                      padding:0px;
+                      background:$darkredColor;
+                    &  .item-promo-modal {
+                        padding:0px;
+                        overflow:hidden;
+                    }
+                    &  .item-promo-texto{
+                          background:$darkredColor;
+                          height:auto;
+                          margin-top:2%;
+                          padding: 0px;
+
+                              h2{
+                                font-size:5rem;
+                                color:$whiteColor;
+                                font-weight:bolder;
+                                text-align:center;
+                                text-transform: uppercase;
+                                line-height: 4rem;
+                                margin:0px;
+                              }
+                              h3{
+                                text-transform: lowercase;
+                                color: #ffffff;
+                                text-align: center;
+                                line-height: 2.5rem;
+                              }
+                              h4{
+                                text-transform: uppercase;
+                                color:$whiteColor;
+                                text-align:center;
+                                line-height: 0.5rem;
+                                margin:0;
+                              }
+                              p{
+                                  color:$whiteColor;
+                                  font-size:1.7rem;
+                                  text-align: center;
+                              }
+                              &  .logo-modal{
+                                  width:100%;
+                                  margin:0 auto;
+                                  padding: 0px;
+                                  background: #ffffff;
+                                  margin-bottom: 20PX;
+                                  img{
+                                        margin: 0 auto;
+                                  }
+                              }
+                              &  .cta-modal{
+                                border-radius:20px;
+                                background: $whiteColor;
+                                color:$grayColor;
+                                font-size:1.7rem;
+                                padding:10px 40px 10px 40px;
+                                font-weight: 600;
+                                text-align: center;
+                                width:100%!important;
+                                margin:10px auto;
+                              }
+                              a{
+                                width:100%!important;
+                                margin:10px auto;
+                              }
+
+                    }
+                  }
+                }
+            }
+        }
+      }
+    }
+}

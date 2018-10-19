@@ -1,0 +1,78 @@
+<div id="footer">
+         <!-- footer-->
+         <div>
+            <div id="lower">
+               <div id="bar">
+                  <div class="panel-title togglePane">
+                    <div class="f-desktop">
+                     <div class="col-md-1 col-xs-12">
+                        <div class="Davi-footer">
+                           <img src="images/vigilado.png" class="img-responsive">
+                        </div>
+                     </div>
+                     <div class="col-md-3">
+                        <div class="vigilado-conozca">
+                           <p class="">
+                              Banco Davivienda S.A. Todos los derechos reservados 2017.
+                           </p>
+                        </div>
+                     </div>
+                     </div>
+
+                     <div class="col-md-4 ">
+                        <div class="vigilado-conozca">
+                           <p style="font-size: 14px;">
+                              <a href="https://comunicaciones.davivienda.com/simultaneaTyC" target="_blank">Clic aquí y conózca más</a>
+                           </p>
+                        </div>
+                     </div>
+
+
+
+
+                     <div class="col-md-3 col-md-offset-1 logo-davf" align="center">
+                        <img src="http://images.publicidad.davivienda.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bfe3e00a8-a80f-4eea-95e1-df3ed5bd9b05%7D_logo.png" class="img-responsive " style="margin-top: -5px;">
+                     </div>
+
+                     <div class="clearfix">
+                     </div>
+                     <a>
+                     
+                     </a>
+                  </div>
+               </div>
+               <div id="panel">
+                  <div class="panel-body container">
+                     <div class="footer-txt">
+                        <div class="pull-right">
+                           <a class="togglePane" aria-expanded="true">
+                           <img src="images/close.png" style="margin-left: 12px;">
+                           </a>
+                        </div>
+                        <p align="justify" class="">
+                           Recuerde que por su seguridad el Banco Davivienda nunca solicita a través de este medio información confidencial o financiera como usuarios y claves de acceso a nuestros canales, ni números de productos como cuentas, números de tarjetas de crédito o similares.<br>
+                        </p>
+                     </div>
+                  </div>
+
+                  <div class="f-mobile">
+                    <div class="col-md-1 col-xs-4">
+                       <div class="Davi-footer">
+                          <img src="images/vigilado.png" class="img-responsive">
+                       </div>
+                    </div>
+                    <div class="col-md-3 col-xs-8">
+                       <div class="vigilado-conozca">
+                          <p class="" style="text-align:left;">
+                             Banco Davivienda S.A. Todos los derechos reservados 2017.
+                          </p>
+                       </div>
+                    </div>
+                    <div class="clearfix"></div>
+                  </div>
+               </div>
+            </div>
+            <!-- End lower-->
+         </div>
+         <!-- End footer-->
+      </div>

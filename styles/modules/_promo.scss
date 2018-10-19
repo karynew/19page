@@ -1,0 +1,184 @@
+.portraits{
+    margin-top:3%;
+    &  .slick-slider {
+        &  .slick-prev{
+          display: none!important;
+        }
+        &  .slick-next{
+          display: none!important;
+        }
+    }
+  &  .promos{
+    /* Caption Style 3 */
+    &  .slick-list{
+      outline:none;
+    }
+
+    &  .slick-dots{
+      display: none;
+    }
+
+      img {
+        border:solid 2px;
+        border-bottom-color:#ffe;
+        border-left-color:#eed;
+        border-right-color:#eed;
+        border-top-color:#ccb;
+        max-height:100%;
+        max-width:100%;
+      }
+    &  .fragmento{
+      display:inline-block;
+      height:auto;
+      outline: 0;
+      &:focus{
+        outline: 0;
+      }
+      &  .brand-aliados{
+        width: 128px;
+        margin: 0px 24%;
+
+        @include mobile{
+          width: 128px;
+          margin: 0px 25%;
+        }
+        @include tablet-init{
+          width: 128px;
+          margin: 0px 8%;
+        }
+        @include mini-labtop{
+          width: 128px;
+          margin: 0px 12%;
+        }
+        @include labtop{
+          width: 150px;
+          margin: 0 8%;
+        }
+        @include portatil{
+          width: 150px;
+          margin: 0 8%;
+        }
+        @include convencional{
+          width: 150px;
+          margin: 0 8%;
+        }
+        @include indefinida{
+          width: 150px;
+          margin: 0 6%;
+        }
+        @include high{
+          width: 200px;
+          margin: 0 13%;
+        }
+        @include middle-high {
+          width: 200px;
+          margin: 0 5%;
+        }
+        @include also-High{
+          width: 200px;
+          margin: 0 5%;
+        }
+        @include superHigh {
+          width: 200px;
+          margin: 0 5%;
+        }
+
+
+        img{
+          border:0;
+        }
+      }
+      &  .each{
+        background-color: #ffffff;
+        border: solid 2vmin #eee;
+        border-bottom-color: #3f3a3c;
+        border-left-color: #231f21;
+        border-radius: 2px;
+        border-right-color: #231f21;
+        border-top-color: #060003;
+        box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25) inset, 0 5px 10px 5px rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        display: inline-block;
+        margin: 1vh 1vw;
+        height: auto;
+        padding: 0vmin;
+        text-align: center;
+        width: 60%;
+        margin-left: 20%;
+        @include mobile{
+          width: 90%;
+          margin-left: 0%;
+        }
+        @include tablet-init{
+          width: 200px;
+          margin-left: 0%;
+        }
+        @include mini-labtop{
+          width: 200px;
+          margin-left: 0%;
+        }
+        @include labtop{
+          margin-left: 0%;
+        }
+        @include portatil{
+          margin-left: 0%;
+        }
+        @include convencional{
+          margin-left: 0%;
+        }
+        @include indefinida{
+          margin-left: 0%;
+        }
+        @include high{
+          width: 260px;
+          margin-left: 0%;
+        }
+        @include middle-high {
+          width: 240px;
+          margin-left: 0%;
+        }
+        @include also-High{
+          width: 280px;
+          margin-left: 0%;
+        }
+        @include superHigh {
+          width: 280px;
+          margin-left: 0%;
+        }
+        .box {
+          width: 100%;
+          background-color: #bdc3c7;
+          margin: 0 auto;
+          position: relative;
+          color: #2c3e50;
+          font-size: 70px;
+          overflow: hidden;
+        }
+        .box:hover > .caption {
+          bottom: 0;
+        }
+        .caption {
+          width: 100%;
+          height: 100px;
+          text-transform: uppercase;
+          background-color: $darkredColor;
+          color: #ecf0f1;
+          bottom: -100px;
+          position: absolute;
+          transition: bottom 0.3s;
+          font-size: 2.5rem;
+          font-weight:bolder;
+          float:left;
+          &  .grueso{
+
+          }
+          p{
+            font-size: 1.5rem;
+            padding:10px;
+            background:$redModal;
+          }
+        }
+      }
+    }
+  }
+}

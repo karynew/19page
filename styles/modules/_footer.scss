@@ -1,0 +1,89 @@
+#footer {
+  position: fixed;
+  height: 60px;
+  display: block;
+  width: 100%;
+  background: #000000;
+  z-index: 30;
+  text-align: center;
+  color: #f2f2f2;
+  padding: 20px 0 0 0;
+  font-size: 11px;
+  bottom: 0px;
+  p {
+    font-size: 11px;
+    line-height:0;
+  }
+}
+
+#lower {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background: #000000;
+}
+
+#bar {
+  padding: 10px;
+  background: #000000;
+  color: #fff;
+  cursor: pointer;
+  a {
+    position: absolute;
+    top: -22px;
+    left: 0;
+    right: 0;
+    width: 200px;
+    margin: auto;
+  }
+}
+
+#panel {
+  display: none;
+  height: 100px;
+  background-color: #000000;
+  padding: 10px;
+}
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: inherit;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.panel-body .footer-txt p {
+  color: #fff;
+}
+
+.panel-title {
+  .vigilado-conozca {
+    color: #fff;
+    a{
+      color: #fff;
+      text-decoration: none;
+      & :hover{
+        color: #c22a22;
+        text-decoration: none;
+      }
+      &:visited{
+        color: #fff;
+        text-decoration: none;
+      }
+    }
+  }
+  .vigilado-footer-text p {
+    font-size: 0.8em;
+    color: #000000;
+  }
+  .Davi-footer {
+    width: 110px;
+  }
+  .Davi-footerdos, .vigilado-conozca-mobile {
+    display: none;
+  }
+}
+
+/*mobile*/

@@ -1,0 +1,122 @@
+/*header.scss*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+
+body {
+
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+$whiteColor:#ffffff;
+$redColor:#ff0000;
+$darkredColor:#c22a22;
+$grayColor:#5a5a5a;
+$clearGray:#e1e1e1;
+$hrColor:#c8c8c8;
+$bgBlack:#000000;
+$spanColor:#ed1c27;
+$redPassport:#ee383a;
+$grayPassport:#f5f5ef;
+$grayInput:#efeeea;
+$redModal:#66100c;
+$bgCloud:#eeccb0;
+$redSlide4:#ef1923;
+$darkGray:#383838;
+.require{
+  padding:5% auto;
+}
+
+.img-responsive{
+  max-width:100%;
+}
+.pull-right{
+  float:right;
+}
+
+.pull-left{
+  float:left;
+}
+.space{
+  margin-bottom: 5px;
+}
+
+.slideSim{
+  background:url(https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B94233c57-b5fb-427b-b05f-71759ab5c9db%7D_bg-LandingSimultanea.tiny.jpg)no-repeat;
+  background-size: cover;
+  display:block;
+  background-position: 50% 100%;
+  width:100%;
+  height:100%;
+  overflow:hidden;
+
+}
+
+/*cards*/
+.brand{
+margin: 0 auto;
+position: absolute;
+z-index: 99;
+left: 45%;
+
+/* top: 0; */
+-ms-transform: translate(0%, 50%);
+/* -webkit-transform: translate(0%, 50%); */
+/* transform: translate(0%, 50%); */
+width: 300px;
+  img{
+    width:100%;
+  }
+}
+
+.legal{
+  position: absolute;
+  z-index:80;
+  right:0;
+  top:200;
+}
+.vigilado{
+  position: absolute;
+  z-index:80;
+  left:0;
+  bottom:-1000;
+  @include superHigh {
+    bottom:-5000;
+  }
+}
+
+.home{
+  margin-top:30%;
+  @include mobile{
+    margin-top: 30%;
+  }
+  @include tablet-init{
+    margin-top: 5%;
+  }
+  @include mini-labtop {
+    margin-top: 5%;
+  }
+  @include labtop{
+    margin-top: 5%;
+  }
+  @include portatil{
+    margin-top: 5%;
+  }
+  @include convencional{
+    margin-top: 15%;
+  }
+  @include indefinida{
+    margin-top: 15%;
+  }
+  @include high{
+    margin-top: 15%;
+  }
+  @include superHigh {
+    margin-top: 15%;
+  }
+}

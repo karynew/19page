@@ -1,0 +1,23 @@
+
+{% extends "layout.nunjucks" %}
+
+
+{% block content %}
+
+<div class="main-container full container-fluid">
+{% include "partials/navigation.nunjucks" %}
+{% include "partials/slide1.nunjucks" %}
+{% include "partials/slide2.nunjucks" %}
+{% include "partials/slide3.nunjucks" %}
+{% include "partials/slide4.nunjucks" %}
+{% include "partials/slide5.nunjucks" %}
+{% include "partials/footer.nunjucks" %}
+
+
+</div>
+
+
+
+
+
+{% endblock %}

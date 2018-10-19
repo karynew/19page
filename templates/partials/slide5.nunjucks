@@ -1,0 +1,746 @@
+<!-- SLIDE5 -->
+<div id="section05" class="cinco slideSim col-md-12">
+  <div class="text col-md-4">
+		<h1>
+			Marque la diferencia
+			<span>con pisos de calidad
+	</span>
+		</h1>
+		<p>Seleccione su oferta:</p>
+	</div>
+  <!-- fragmento promos -->
+  	<div class="portraits  col-xs-12 col-sm-12 col-md-8">
+  			<div class="promos">
+  				<div class="fragmento">
+  					<a class="each" type="button" data-toggle="modal" data-target="#myModal">
+  							 <div class="box">
+  								 <div class="caption">HASTA 10% dcto. <span></span>
+
+  								 </div>
+  								 <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bef3edde3-a110-4f16-beb1-636f17302327%7D_ITALIA.jpg" alt="Mona Lisa" />
+  							 </div>
+  						</a>
+              <div class="clearfix"></div>
+  						<div class="brand-aliados">
+  							<img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bf6759322-05ec-4eab-be67-3c9f21731607%7D_ceramica-italia.png" alt="">
+  						</div>
+  				</div>
+  				<div class="fragmento">
+  					<a  class="each" type="button" data-toggle="modal" data-target="#myModal">
+  							 <div class="box">
+  								 <div class="caption">HASTA 25% dcto. <span></span>
+
+  								 </div>
+  								 <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B7d9b3186-154f-42b9-8e60-d44a0565a88a%7D_alfa.jpg" alt="Mona Lisa" />
+  							 </div>
+  						</a>
+              <div class="clearfix"></div>
+              <div class="brand-aliados">
+                <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B4a6f886c-fb52-4c96-8ff1-c311383346f4%7D_alfa.png" alt="">
+              </div>
+  				</div>
+
+  			</div>
+  	</div>
+  <!-- End fragmento promos -->
+  <div class="clearfix"></div>
+  <div class="tina">
+			<img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B1267ae85-7e37-401c-ac7b-7fcce43709fe%7D_tube_02.png" alt="" class="img-responsive">
+	</div>
+  <div class="lamp">
+			<img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B309b11f1-d7f8-4ab8-ad9e-6d8a0385c9e5%7D_bathroom-lamp_03_%281%29.png" alt="" class="img-responsive">
+	</div>
+</div>
+
+<!--  END SLIDE5 -->
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog center-block" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+      </div>
+      <div class="modal-body">
+      <!-- Carousel Aristas -->
+        <div id="aristas " class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            {# <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol> #}
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B0ea36d0d-545e-4db2-8e4a-15da1ae336a8%7D_aristas-promo.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+                          <h2>15% dcto. </h2>
+                          <h3>en todas las líneas</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bbd20fe91-688d-401d-8fe9-a387fab9bcba%7D_aristas-white.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/aristas-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            {# <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a> #}
+       </div>
+      </div>
+      <!-- Carousel Aristas -->
+      <!-- Carousel Muebles Accesorios -->
+        <div id="muebles" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            {# <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol> #}
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B75aaf769-6235-414d-850d-0b5708509919%7D_muebles-promo.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+                        <h4>hasta</h4>
+                          <h2>45% dcto. </h2>
+                          <h3>POR ANIVERSARIO</h3>
+                          <p>Obtenga 5% de descuento adicional pagando con su tarjeta Davivienda. Oferta Válida del 12 de septiembre al 03 de octubre de 2017</p>
+
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bd316e454-52fd-49f8-a7ca-5a48076afa92%7D_muebles-white.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/mueblesyaccesorios-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            {# <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a> #}
+       </div>
+      </div>
+      <!-- CarouselMuebles accesorios -->
+      <!-- Carousel Hountesdouglas -->
+        <div id="hounterdouglas" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            {# <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol> #}
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Baa7d56e9-38fb-464d-a9a7-9dc1a35ab205%7D_hounterdouglas-promo.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>40% dcto. </h2>
+                          <h3> en referencias seleccionadas</h3>
+                          <p>Oferta Válida del 12 de septiembre al 08 de Noviembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B8bcdb618-b9c4-4afa-9ab6-75c82d5a896c%7D_hounter-white.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/Hounterdouglas-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            {# <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a> #}
+       </div>
+      </div>
+      <!--  Carousel Hountesdouglas -->
+      <!-- Carousel Whirpool -->
+        <div id="whirpool" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+            <li data-target="#whirpool" data-slide-to="0" class="active"></li>
+            <li data-target="#whirpool" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B74d21419-8457-4dd7-8a4b-a671452e787f%7D_whirpool-promo.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>10% dcto. </h2>
+                          <h3> EN productos</h3>
+                          <p>(Excepto filtros de repuesto para neveras)</p>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B20f1df05-be58-4278-9bbf-b9f5898e0001%7D_whirpool-logo.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/kitchenAid-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#whirpool" role="button" data-slide="prev">
+            <span class="fa fa-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#whirpool" role="button" data-slide="next">
+            <span class="fa fa-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a>
+       </div>
+      </div>
+      <!--  Carousel Whirpool -->
+      <!-- Carousel kitchenAid -->
+        <div id="kitchenAid" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+            <li data-target="#whirpool" data-slide-to="0" class="active"></li>
+            <li data-target="#whirpool" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B73c4bbbb-da30-428e-bf6d-b6c50571b36b%7D_kitchenaid.jpg" alt="kitchenAid" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>15% dcto. </h2>
+                          <h3>EN PEQUEÑOS ELECTRODOMÉSTICOs</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B594138a0-0e98-4bff-afde-39b8c1c740ac%7D_kitchenAid.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/kitchenAid-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- item aliado -->
+              <div class="item">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B5486f502-8aae-4a9d-a516-b4b53a26b7f5%7D_whirpool-promo2.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>15% dcto. </h2>
+                          <h3> EN GRANDES ELECTRODOMÉSTICOs</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B20f1df05-be58-4278-9bbf-b9f5898e0001%7D_whirpool-logo.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/kitchenAid-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- Controls -->
+              <a class="left carousel-control" href="#whirpool" role="button" data-slide="prev">
+              <span class="fa fa-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+              </a>
+              <a class="right carousel-control" href="#whirpool" role="button" data-slide="next">
+              <span class="fa fa-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+              </a>
+       </div>
+      </div>
+      <!--  Carousel kitchenAid -->
+      <!-- Carousel teknopolis -->
+        <div id="teknopolis" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+            <li data-target="#teknopolis" data-slide-to="0" class="active"></li>
+            <li data-target="#teknopolis" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B9343ca55-2ef7-41fe-a05c-2d60b1972de8%7D_teknopolis1.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>10% dcto. </h2>
+                          <h3>en proyectores</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B71672625-be71-45bb-8748-6b8b989ad755%7D_teknopolis-white.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/teknopolis-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- item aliado -->
+              <div class="item">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B804df2d9-91ee-40b6-bb43-859f2c3c4172%7D_teknopolis2.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>10% dcto. </h2>
+                          <h3> en impresoras multifuncional</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B71672625-be71-45bb-8748-6b8b989ad755%7D_teknopolis-white.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/teknopolis-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- item aliado -->
+              <div class="item">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B5ba43f41-b908-444c-9c16-f2a4ad9be381%7D_teknopolis3.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>10% dcto. </h2>
+                          <h3> en parlantes Bose,Logitech y Sony</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B71672625-be71-45bb-8748-6b8b989ad755%7D_teknopolis-white.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/teknopolis-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- item aliado -->
+              <div class="item">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B255ced78-850c-422a-8e3e-7fd753d6d933%7D_teknopolis5.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>10% dcto. </h2>
+                          <h3>en toda la marca DJI</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B71672625-be71-45bb-8748-6b8b989ad755%7D_teknopolis-white.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/teknopolis-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- item aliado -->
+              <div class="item">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B1c7f6231-3b85-4388-911f-6ade88dfd4d4%7D_teknopolis4.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>15% dcto. </h2>
+                          <h3>Tablet Starpad</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B71672625-be71-45bb-8748-6b8b989ad755%7D_teknopolis-white.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/teknopolis-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            <a class="left carousel-control" href="#teknopolis" role="button" data-slide="prev">
+            <span class="fa fa-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#teknopolis" role="button" data-slide="next">
+            <span class="fa fa-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a>
+       </div>
+      </div>
+      <!--  Carousel teknopolis -->
+      <!-- Carousel paraiso -->
+        <div id="paraiso " class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            {# <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol> #}
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bd419f8b4-9388-4443-accf-db24e36c318b%7D_paraiso.jpg" alt="kitchenAid" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>65% dcto. </h2>
+                          <h3>en todas las tiendas</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bdb14fb5d-6fab-4a58-b9ed-aeeb20e2d3aa%7D_paraiso.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/paraiso-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            {# <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a> #}
+       </div>
+      </div>
+      <!--  Carousel paraiso -->
+      <!-- Carousel spring -->
+        <div id="spring " class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            {# <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol> #}
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B0201677b-e407-422a-a601-c94c7264730c%7D_spring.jpg" alt="kitchenAid" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>70% dcto. </h2>
+                          <h3>en referencias seleccionadas</h3>
+                          <p>Oferta Válida del 12 de septiembre de 2017 al 30 de septiembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B7b99e33c-a476-49ef-9f2c-89b46c0c955a%7D_spring.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/spring-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            {# <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a> #}
+       </div>
+      </div>
+      <!--  Carousel spring -->
+      <!-- Carousel pullman -->
+        <div id="pullman" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            {# <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol> #}
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B24928ae1-4b03-417d-8d17-8bd4b986e062%7D_pullman.jpg" alt="kitchenAid" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>55% dcto. </h2>
+                          <h3>en todos los productos</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B4072e183-912e-4cab-9644-58aee920af89%7D_pullman.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/amoblando-pullman-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            {# <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a> #}
+       </div>
+      </div>
+      <!--  Carousel pullman-->
+      <!-- Carousel ceramica italia -->
+        <div id="italia" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            {# <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol> #}
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B9ce1e3e4-a07b-42ce-9919-c63f3c881737%7D_ceramica-italia.jpg" alt="kitchenAid" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>10% dcto. </h2>
+                          <h3>en todas las líneas de producto</h3>
+                          <p>Oferta Válida del 12 de septiembre al 30 de septiembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B1b143f84-a625-478e-9a45-6b6d513e9943%7D_ceramica-italia.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/ceramica-italia-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            {# <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a> #}
+       </div>
+      </div>
+      <!--  Carousel ceramica italia-->
+      <!-- Carousel alfa -->
+        <div id="alfa" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+            <li data-target="#alfa" data-slide-to="0" class="active"></li>
+            <li data-target="#alfa" data-slide-to="1"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <!-- item aliado -->
+              <div class="item active">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B79487dc1-4051-4f53-9923-13b19b62788e%7D_alfa1.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>18% dcto. </h2>
+                          <h3>en griferías</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bccb8fcd5-dff7-406c-855f-45bed3c53316%7D_alfa.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/alfa-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- item aliado -->
+              <div class="item">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bf33d776f-7395-4f50-894e-57e5b686455c%7D_alfa2.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+
+                          <h2>25% dcto. </h2>
+                          <h3>en pinturas</h3>
+                          <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bccb8fcd5-dff7-406c-855f-45bed3c53316%7D_alfa.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/alfa-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- item aliado -->
+              <div class="item">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Be5e4eca4-2afd-441d-a551-96aee07a7831%7D_alfa3.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+                        <h2>20% dcto. </h2>
+                        <h3>en SANITARIOS</h3>
+                        <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bccb8fcd5-dff7-406c-855f-45bed3c53316%7D_alfa.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/alfa-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+              <!-- item aliado -->
+              <div class="item">
+                <div class="item-promo col-md-12">
+                      <div class="item-promo-modal col-md-7">
+                        <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bbc22291d-fd94-4159-b635-73fc8e83b459%7D_alfa4.jpg" alt="Aristas" class="img-responsive">
+                      </div>
+                      <div class="item-promo-texto col-md-5">
+                        <h2>15% dcto. </h2>
+                        <h3>EN CERÁMICA</h3>
+                        <p>Oferta Válida del 12 de septiembre al 01 de diciembre de 2017</p>
+                        <div class="clearfix"></div>
+                        <div class="logo-modal">
+                          <img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7Bccb8fcd5-dff7-406c-855f-45bed3c53316%7D_alfa.png" class="img-responsive" alt="">
+                        </div>
+                        <a href="https://comunicaciones.davivienda.com/alfa-simultanea-tdc" target="_blank" class="cta-modal">
+                          Vea detalles de las ofertas aquí
+                        </a>
+                      </div>
+                  <div class="clearfix"></div>
+              </div>
+            </div>
+              <!--End item aliado -->
+            <!-- Controls -->
+            <a class="left carousel-control" href="#alfa" role="button" data-slide="prev">
+            <span class="fa fa-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#alfa" role="button" data-slide="next">
+            <span class="fa fa-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+            </a>
+       </div>
+      </div>
+      <!--  Carousel teknopolis -->
+    </div>
+  </div>
+</div>
+</div>
+  <div class="vigilado"> <img class="img-responsive" src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/{4465c750-d397-479e-9d51-5313bc0eda2a}_vigilado.png" alt=""> </div>

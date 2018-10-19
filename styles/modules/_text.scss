@@ -1,0 +1,62 @@
+.text{
+  padding-top: 5%;
+  padding-left: 16%;
+  @include tablet-init{
+    padding-top: 8%;
+    padding-left: 3%;
+  }
+  @include labtop{
+    padding-top: 5%;
+      padding-left: 10%;
+  }
+  h1{
+    color:$grayColor;
+    font-size: 0.5em;
+    text-transform: uppercase;
+    @include tablet-init{
+      font-size:0.5em;
+      line-height:1em;
+    }
+    @include mini-labtop{
+      font-size:0.5em;
+    }
+    @include labtop{
+        font-size:0.7em;
+    }
+    @include portatil{
+        font-size:0.7em;
+    }
+    @include high {
+      font-size:1em;
+    }
+    span{
+      color:$darkredColor;
+      font-size: 1.3em;
+      font-weight:bold;
+      @include mini-labtop{
+        font-size:0.9em;
+      }
+      @include high {
+        font-size:1em;
+      }
+    }
+  }
+  p{
+    font-size: 0.6em;
+    line-height: 1em;
+    color:$grayColor;
+    @include tablet-init{
+      font-size:0.4em;
+      line-height:1em;
+    }
+    @include mini-labtop{
+      font-size:0.4em;
+    }
+    @include high {
+      font-size:0.6em;
+    }
+    span{
+      color:$darkredColor;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: red;
+$base-white: #ffffff;
+
+body { font: 100% $font-stack; background-color: $base-white; font-size:50px;}
+
+@import "modules/_mixins";
+@import "modules/_base";
+@import "modules/_nav";
+@import "modules/_modal";
+@import "modules/_arrow";
+@import "modules/_asideNav";
+@import "modules/_text";
+@import "modules/_hover";
+@import "modules/_promo";
+@import "modules/_slide1";
+@import "modules/_slide2";
+@import "modules/_slide3";
+@import "modules/_slide4";
+@import "modules/_slide5";
+@import "modules/_footer";

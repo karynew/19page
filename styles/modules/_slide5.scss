@@ -1,0 +1,97 @@
+.cinco {
+  &  .tina{
+    position: absolute;
+    bottom:4%;
+    left: -5%;
+    z-index:9;
+    display:none;
+    @include mobile{
+      display:none;
+    }
+    @include tablet-init{
+      display:none;
+      //width:600px;
+      //left: -150px;
+    }
+    @include mini-labtop {
+      display:none;
+      //width:600px;
+    }
+    @include labtop{
+      display:block;
+      width:700px;
+      left:-350;
+    }
+    @include portatil{
+      display:block;
+      width:700px;
+    }
+    @include convencional{
+      display:block;
+      width:750px;
+    }
+    @include indefinida{
+      display:block;
+      width:850px;
+    }
+    @include high{
+      display:block;
+      width:900px;
+    }
+    @include superHigh {
+      display:block;
+      width:900px;
+    }
+    img{
+      width:100%;
+
+    }
+  }
+  &  .lamp{
+    position: absolute;
+    bottom:5%;
+    right: 3%;
+    display:none;
+    @include mobile{
+      display: none;
+    }
+    @include tablet-init{
+      display:none;
+        //width: 130px;
+    }
+    @include mini-labtop {
+        display:none;
+        //width: 130px;
+    }
+    @include labtop{
+        display:block;
+        width:110px;
+
+    }
+    @include portatil{
+      display: block;
+      width: 150px;
+    }
+    @include convencional{
+        display: block;
+            width: 200px;
+    }
+    @include indefinida{
+        display: block;
+              width: 200px;
+    }
+    @include high{
+        display: block;
+            width: 200px;
+    }
+    @include superHigh {
+        display:block;
+            width: 200px;
+    }
+    img{
+      width:100%;
+
+    }
+  }
+
+}

@@ -1,0 +1,91 @@
+.dos{
+  &  .silla-slide2{
+    position: absolute;
+    bottom:4%;
+    left:4%;
+    z-index:6;
+    display:none;
+    @include mobile{
+      display:none;
+    }
+    @include tablet-init{
+      display:none;
+        //width: 377px;
+    }
+    @include mini-labtop {
+      display:none;
+        //width: 377px;
+    }
+    @include labtop{
+      display:block;
+      width:330px;
+      left: -10;
+    }
+    @include portatil{
+      display:block;
+      width:330px;
+    }
+    @include convencional{
+      display:block;
+      width:448px;
+    }
+    @include indefinida{
+      display:block;
+        width:450px;
+    }
+    @include high{
+      display:block;
+        width:500px;
+    }
+    @include superHigh {
+      display:block;
+      width:500px;
+    }
+
+  }
+  &  .rug-slide2{
+    position: absolute;
+    bottom:4%;
+    left: 35%;
+    display:none;
+    @include mobile{
+      display:none;
+    }
+    @include tablet-init{
+      //display:block;
+      display:none;
+    }
+    @include mini-labtop {
+      display:none;
+        //width: 500px;
+    }
+    @include labtop{
+      display:none;
+        //width: 500px;
+    }
+    @include portatil{
+      display:block;
+        width: 600px;
+    }
+    @include convencional{
+      display:block;
+      width: 600px;
+    }
+    @include indefinida{
+      display:block;
+      width: 700px;
+    }
+    @include high{
+      display:block;
+      width: 800px;
+    }
+    @include superHigh {
+      display:block;
+      width: 840px;
+    }
+    img{
+      width:100%;
+
+    }
+  }
+}

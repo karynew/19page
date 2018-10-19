@@ -1,0 +1,317 @@
+
+
+.navbar-inverse {
+  background-color: #ffffff;
+  border-color: #c22a22;
+  &  .navbar-collapse  {
+    border-color: #f2f2f2;
+  }
+  @include mobile{
+    background-color: #ffffff;
+  }
+  @include tablet-init{
+    background-color: #ffffff;
+  }
+  @include mini-labtop {
+    background-color: #ffffff;
+  }
+  @include labtop{
+      background-color: #ffffff;
+  }
+  @include portatil{
+    background-color: #ffffff;
+  }
+  @include convencional{
+    background-color: #ffffff;
+  }
+  @include indefinida{
+    background-color: #ffffff;
+  }
+  @include high{
+    background-color: #ffffff;
+  }
+  @include superHigh {
+    background-color: #ffffff;
+  }
+  &:hover{
+
+  }
+
+
+
+  .navbar-nav {
+
+    width:100%;
+    @include labtop{
+
+    }
+    li{
+      float: left;
+      width: 100%;
+      text-align: center;
+      &:hover{
+        background: $darkredColor;
+        color:$whiteColor;
+      }
+      &:active{
+        background: $darkredColor;
+        @include mobile{
+            width: 100%;
+        }
+        @include tablet-init{
+          width:25%;
+
+        }
+      }
+      @include mobile{
+          width: 100%;
+      }
+      @include tablet-init{
+        width:25%;
+
+      }
+      @include mini-labtop {
+          width: 25%;
+      }
+      @include labtop{
+        width: 25%;
+      }
+      @include portatil{
+        width: 25%;
+      }
+      @include convencional{
+        width: 25%;
+      }
+      @include indefinida{
+        width: 25%;
+      }
+      @include high{
+        width: 25%;
+      }
+      @include superHigh {
+        width: 25%;
+      }
+
+      a{
+        color: #5a5a5a;
+        font-size: 1.0em;
+        font-family: 'Open Sans Condensed', sans-serif;
+        &:active{
+          color: $redColor;
+          background: $whiteColor;
+          &:hover{
+            background: $whiteColor;
+            color: $redColor;
+          }
+        }
+        &:hover{
+          color: $whiteColor;
+        }
+
+      }
+    }
+  }
+  &  .navbar-toggle{
+    background-color: #c22a22;
+    border-color:transparent;
+    &:focus, :hover, :active {
+      background-color: #c22a22;
+      border-color:transparent;
+    }
+  }
+}
+.navbar {
+  position: fixed;
+  z-index:98;
+  width:100%;
+	border-radius: 0;
+	border: none;
+	margin-bottom: 0;
+	min-height: 40px;
+  -webkit-box-shadow: 0 10px 6px -6px #e1e1e1;
+  -moz-box-shadow: 0 10px 6px -6px #e1e1e1;
+  box-shadow: 0 10px 6px -6px #e1e1e1;
+  padding:0px;
+  top:0;
+  & .nav{
+    width: 100%;
+    float: none;
+    @include mobile{
+      width: 100%;
+      float: none;
+    }
+    @include tablet-init{
+      width: 70%;
+      float: right;
+    }
+    @include mini-labtop {
+      width: 70%;
+      float: right;
+    }
+    @include labtop{
+      width: 70%;
+      float: right;
+    }
+    @include portatil{
+      width: 70%;
+      float: right;
+    }
+    @include convencional{
+      width: 70%;
+      float: right;
+    }
+    @include indefinida{
+      width: 70%;
+      float: right;
+    }
+    @include high{
+      width: 70%;
+      float: right;
+    }
+    @include superHigh {
+      width: 70%;
+      float: right;
+    }
+
+  }
+
+  &  .navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 0px;
+    font-size: 18px;
+    line-height: 20px;
+    position: absolute;
+    left:0;
+    width: 280px;
+    float: left;
+    img{
+      width:80%;
+      @include mobile{
+        width:100%;
+      }
+      @include tablet-init{
+        width:100%;
+      }
+      @include mini-labtop {
+        width:100%;
+      }
+      @include labtop{
+        width:100%;
+      }
+      @include portatil{
+        width:100%;
+      }
+      @include convencional{
+        width:100%;
+      }
+      @include indefinida{
+        width:100%;
+      }
+      @include high{
+        width:100%;
+      }
+      @include superHigh {
+        width:100%;
+      }
+      img{
+        width:100%;
+      }
+    }
+    &  .pote{
+      position: absolute;
+      right: 15%;
+      bottom: 4%;
+      z-index:22;
+      display:none;
+      @include mobile{
+        display:none;
+      }
+      @include tablet-init{
+        right: 13%;
+        width: 119px;
+        display:block;
+      }
+      @include mini-labtop{
+        right: 13%;
+        width: 149px;
+        display:block;
+      }
+      @include labtop{
+        right: 6%;
+        width: 159px;
+        display:block;
+      }
+      @include portatil{
+        right: 13%;
+        width: 180px;
+        display:block;
+      }
+      @include convencional{
+        right: 7%;
+        width: 200px;
+        display:block;
+      }
+      @include indefinida{
+        right: 11%;
+        width: 180px;
+        display:block;
+      }
+      @include high{
+        right: 5%;
+        width: 190px;
+        display:block;
+      }
+      @include middle-high {
+        right: 7%;
+        display:block;
+      }
+      @include also-High{
+        right: 15%;
+        bottom: 4%;
+        display:block;
+      }
+      @include superHigh {
+        right: 15%;
+        bottom: 4%;
+        display:block;
+      }
+    }
+
+  }
+
+  &  .container{
+    margin:0px;
+    padding:0px;
+    width: 100%;
+
+  }
+
+     li {
+      	display: inline;
+      	color: white;
+        color: #5a5a5a;
+        font-size: 0.5em;
+        float: left;
+        width: 50%;
+        text-align: center;
+
+        a {
+          color: #5a5a5a;
+          font-size: 0.5em;
+        	font-family: Lato;
+        	font-size: 1.7em;
+        	font-weight: 300;
+        	padding: 15px 25px 15px 25px;
+          @include labtop{
+
+          }
+          &:hover {
+            	background-color: #444444;
+            	transition: 0.7s all linear;
+            	height: 100%;
+          }
+        }
+      }
+
+}

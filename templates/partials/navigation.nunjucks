@@ -1,0 +1,45 @@
+<!-- navigation.nunjucks -->
+
+{# <nav class="navbar navbar-inverse navbar-static-top col-md-12" role="navigation">
+			<div class="container col-md-12">
+         <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1 col-md-12">
+				<ul class="nav navbar-nav">
+					<li><a href="">Amueble</a></li>
+					<li><a href="">Viva fácil</a></li>
+					<li><a href="#">Descanse</a></li>
+					<li><a href="#">Remodéle</a></li>
+				</ul>
+			</div>
+</nav> #}
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><img src="https://img03.en25.com/EloquaImages/clients/BANCODAVIVIENDADAVIPRO/%7B0e53c3e8-7e8c-4370-9942-0f8e0b50841f%7D_logo-davivienda.png" alt=""></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li ><a href="#section02" data-toggle="collapse" data-target="#myNavbar">Amueble</a></li>
+        <li><a href="#section03" data-toggle="collapse" data-target="#myNavbar">Viva fácil</a></li>
+        <li><a href="#section04" data-toggle="collapse" data-target="#myNavbar">Descanse</a></li>
+				<li><a href="#section05" data-toggle="collapse" data-target="#myNavbar">Remodéle</a></li>
+      </ul>
+
+    </div>
+  </div>
+</nav>
