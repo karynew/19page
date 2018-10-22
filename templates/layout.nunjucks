@@ -24,10 +24,10 @@
   <meta name="author" content="">
   <title>Landing - Simultanea -TDC</title>
   <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
   <!-- Custom styles for this template -->
   <link href="css/main.css" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+
 
   <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
 
@@ -40,9 +40,9 @@
 
     <!-- Parallax foreground -->
 
-    <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
     <!-- cdn fontawesome -->
     <script src="https://use.fontawesome.com/d26f410378.js"></script>
 
