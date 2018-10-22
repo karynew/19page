@@ -1,11 +1,16 @@
 
 
-$font-stack: Helvetica, sans-serif;
-$primary-color: red;
-$base-white: #ffffff;
+$font-stack: 'Open Sans Condensed', sans-serif;
+$txt-red:#e03845;
+$txt-white:#ffffff;
+$bg-red:#e03845;
+$bg-white:#ffffff;
 
-body { font: 100% $font-stack; background-color: $base-white; font-size:50px;}
+body { font-family: $font-stack; background-color: $base-white; font-size: 20px;}
+h1{font-size:32px;}
+h2{font-size: 28px;}
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700');
 @import "modules/_mixins";
 @import "modules/_base";
 @import "modules/_nav";
